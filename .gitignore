@@ -1,1 +1,632 @@
 /.DS_Store
+Resources/.DS_Store
+Resources/FAQ_The_Data_Science_Course.pdf
+Resources/Part_1_Intro_to_Data_and_Data_Science/.DS_Store
+Resources/Part_1_Intro_to_Data_and_Data_Science/S2_L6/365-DataScience-Diagram.pdf
+Resources/Part_1_Intro_to_Data_and_Data_Science/S2_L7/365-DataScience-Diagram.pdf
+Resources/Part_1_Intro_to_Data_and_Data_Science/S2_L7/365-DataScience.png
+Resources/Part_1_Intro_to_Data_and_Data_Science/S2_L8/365-DataScience.png
+Resources/Part_2_Probability/.DS_Store
+Resources/Part_2_Probability/S10_29/Course Notes - Combinatorics.pdf
+Resources/Part_2_Probability/S10_L34/Combinations With Repetition.pdf
+Resources/Part_2_Probability/S10_L35/Symmetry Explained.pdf
+Resources/Part_2_Probability/S10_L39/Additional Exercises Combinatorics Solutions.pdf
+Resources/Part_2_Probability/S10_L39/Additional Exercises Combinatorics.pdf
+Resources/Part_2_Probability/S11_L40/Course Notes - Bayesian Inference.pdf
+Resources/Part_2_Probability/S12_L51/CDS_2017-2018 Hamilton.pdf
+Resources/Part_2_Probability/S12_L51/Course Notes - Probability Distributions.pdf
+Resources/Part_2_Probability/S12_L52/Course Notes - Probability Distributions.pdf
+Resources/Part_2_Probability/S12_L58/Poisson - Expected Value and Variance.pdf
+Resources/Part_2_Probability/S12_L59/Solving Integrals.pdf
+Resources/Part_2_Probability/S12_L60/Normal Distribution - Expected Value and Variance.pdf
+Resources/Part_2_Probability/S12_L66/Customers_Membership (post).xlsx
+Resources/Part_2_Probability/S12_L66/Customers_Membership.xlsx
+Resources/Part_2_Probability/S12_L66/Daily Views (post).xlsx
+Resources/Part_2_Probability/S12_L66/Daily Views.xlsx
+Resources/Part_2_Probability/S12_L66/FIFA19 (post).csv
+Resources/Part_2_Probability/S12_L66/FIFA19.csv
+Resources/Part_2_Probability/S9_L25/Course Notes - Basic Probability.pdf
+Resources/Part_3_Statistics/.DS_Store
+Resources/Part_3_Statistics/S14_L71/Course-notes-descriptive-statistics.pdf
+Resources/Part_3_Statistics/S14_L71/Glossary.xlsx
+Resources/Part_3_Statistics/S15_L72/Course-notes-descriptive-statistics.pdf
+Resources/Part_3_Statistics/S15_L73/2.3.Categorical-variables.Visualization-techniques-lesson.xlsx
+Resources/Part_3_Statistics/S15_L74/2.3.Categorical-variables.Visualization-techniques-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L74/2.3.Categorical-variables.Visualization-techniques-exercise.xlsx
+Resources/Part_3_Statistics/S15_L75/2.4.Numerical-variables.Frequency-distribution-table-lesson.xlsx
+Resources/Part_3_Statistics/S15_L76/2.4.Numerical-variables.Frequency-distribution-table-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L76/2.4.Numerical-variables.Frequency-distribution-table-exercise.xlsx
+Resources/Part_3_Statistics/S15_L77/2.5.The-Histogram-lesson.xlsx
+Resources/Part_3_Statistics/S15_L78/2.5.The-Histogram-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L78/2.5.The-Histogram-exercise.xlsx
+Resources/Part_3_Statistics/S15_L79/2.6.Cross-table-and-scatter-plot.xlsx
+Resources/Part_3_Statistics/S15_L80/2.6.Cross-table-and-scatter-plot-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L80/2.6.Cross-table-and-scatter-plot-exercise.xlsx
+Resources/Part_3_Statistics/S15_L81/2.7.Mean-median-and-mode-lesson.xlsx
+Resources/Part_3_Statistics/S15_L82/2.7.Mean-median-and-mode-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L82/2.7.Mean-median-and-mode-exercise.xlsx
+Resources/Part_3_Statistics/S15_L83/2.8.Skewness-lesson.xlsx
+Resources/Part_3_Statistics/S15_L84/2.8.Skewness-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L84/2.8.Skewness-exercise.xlsx
+Resources/Part_3_Statistics/S15_L85/2.9.Variance-lesson.xlsx
+Resources/Part_3_Statistics/S15_L86/2.9.Variance-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L86/2.9.Variance-exercise.xlsx
+Resources/Part_3_Statistics/S15_L87/2.10.Standard-deviation-and-coefficient-of-variation-lesson.xlsx
+Resources/Part_3_Statistics/S15_L88/2.10.Standard-deviation-and-coefficient-of-variation-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L88/2.10.Standard-deviation-and-coefficient-of-variation-exercise.xlsx
+Resources/Part_3_Statistics/S15_L89/2.11.Covariance-lesson.xlsx
+Resources/Part_3_Statistics/S15_L90/2.11.Covariance-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L90/2.11.Covariance-exercise.xlsx
+Resources/Part_3_Statistics/S15_L92/2.12.Correlation-exercise-solution.xlsx
+Resources/Part_3_Statistics/S15_L92/2.12.Correlation-exercise.xlsx
+Resources/Part_3_Statistics/S16_L93/2.13.Practical-example.Descriptive-statistics-lesson.xlsx
+Resources/Part_3_Statistics/S16_L94/2.13.Practical-example.Descriptive-statistics-exercise-solution.xlsx
+Resources/Part_3_Statistics/S16_L94/2.13.Practical-example.Descriptive-statistics-exercise.xlsx
+Resources/Part_3_Statistics/S17_L95/Course-notes-inferential-statistics.pdf
+Resources/Part_3_Statistics/S17_L96/3.2.What-is-a-distribution-lesson.xlsx
+Resources/Part_3_Statistics/S17_L96/Course-notes-inferential-statistics.pdf
+Resources/Part_3_Statistics/S17_L98/3.4.Standard-normal-distribution-lesson.xlsx
+Resources/Part_3_Statistics/S17_L99/3.4.Standard-normal-distribution-exercise-solution.xlsx
+Resources/Part_3_Statistics/S17_L99/3.4.Standard-normal-distribution-exercise.xlsx
+Resources/Part_3_Statistics/S18_L104/3.9.Population-variance-known-z-score-lesson.xlsx
+Resources/Part_3_Statistics/S18_L104/3.9.The-z-table.xlsx
+Resources/Part_3_Statistics/S18_L105/3.9.Population-variance-known-z-score-exercise-solution.xlsx
+Resources/Part_3_Statistics/S18_L105/3.9.Population-variance-known-z-score-exercise.xlsx
+Resources/Part_3_Statistics/S18_L105/3.9.The-z-table.xlsx
+Resources/Part_3_Statistics/S18_L108/3.11.Population-variance-unknown-t-score-lesson.xlsx
+Resources/Part_3_Statistics/S18_L108/3.11.The-t-table.xlsx
+Resources/Part_3_Statistics/S18_L109/3.11.Population-variance-unknown-t-score-exercise-solution.xlsx
+Resources/Part_3_Statistics/S18_L109/3.11.Population-variance-unknown-t-score-exercise.xlsx
+Resources/Part_3_Statistics/S18_L111/3.13.Confidence-intervals.Two-means.Dependent-samples-lesson.xlsx
+Resources/Part_3_Statistics/S18_L111/COALESCE-Preamble.pdf
+Resources/Part_3_Statistics/S18_L112/3.13.Confidence-intervals.Two-means.Dependent-samples-exercise-solution.xlsx
+Resources/Part_3_Statistics/S18_L112/3.13.Confidence-intervals.Two-means.Dependent-samples-exercise.xlsx
+Resources/Part_3_Statistics/S18_L113/3.14.Confidence-intervals.Two-means.Independent-samples-Part-1-lesson.xlsx
+Resources/Part_3_Statistics/S18_L114/3.14.Confidence-intervals.Two-means.Independent-samples-Part-1-exercise-solution.xlsx
+Resources/Part_3_Statistics/S18_L114/3.14.Confidence-intervals.Two-means.Independent-samples-Part-1-exercise.xlsx
+Resources/Part_3_Statistics/S18_L115/3.15.Confidence-intervals.Two-means.Independent-samples-Part-2-lesson.xlsx
+Resources/Part_3_Statistics/S18_L116/3.15.Confidence-intervals.Two-means.Independent-samples-Part-2-exercise-solution.xlsx
+Resources/Part_3_Statistics/S18_L116/3.15.Confidence-intervals.Two-means.Independent-samples-Part-2-exercise.xlsx
+Resources/Part_3_Statistics/S19_L118/3.17.Practical-example.Confidence-intervals-lesson.xlsx
+Resources/Part_3_Statistics/S19_L119/3.17.Practical-example.Confidence-intervals-exercise-solution.xlsx
+Resources/Part_3_Statistics/S19_L119/3.17.Practical-example.Confidence-intervals-exercise.xlsx
+Resources/Part_3_Statistics/S20_L120/Course-notes-hypothesis-testing.pdf
+Resources/Part_3_Statistics/S20_L122/Course-notes-hypothesis-testing.pdf
+Resources/Part_3_Statistics/S20_L124/4.4.Test-for-the-mean.Population-variance-known-lesson.xlsx
+Resources/Part_3_Statistics/S20_L125/4.4.Test-for-the-mean.Population-variance-known-exercise-solution.xlsx
+Resources/Part_3_Statistics/S20_L125/4.4.Test-for-the-mean.Population-variance-known-exercise.xlsx
+Resources/Part_3_Statistics/S20_L126/Online-p-value-calculator.pdf
+Resources/Part_3_Statistics/S20_L127/4.6.Test-for-the-mean.Population-variance-unknown-lesson.xlsx
+Resources/Part_3_Statistics/S20_L128/4.6.Test-for-the-mean.Population-variance-unknown-exercise-solution.xlsx
+Resources/Part_3_Statistics/S20_L128/4.6.Test-for-the-mean.Population-variance-unknown-exercise.xlsx
+Resources/Part_3_Statistics/S20_L129/4.7.Test-for-the-mean.Dependent-samples-lesson.xlsx
+Resources/Part_3_Statistics/S20_L130/4.7.Test-for-the-mean.Dependent-samples-exercise-solution.xlsx
+Resources/Part_3_Statistics/S20_L130/4.7.Test-for-the-mean.Dependent-samples-exercise.xlsx
+Resources/Part_3_Statistics/S20_L131/4.8.Test-for-the-mean.Independent-samples-Part-1-lesson.xlsx
+Resources/Part_3_Statistics/S20_L132/4.8.Test-for-the-mean.Independent-samples-Part-1-exercise-solution.xlsx
+Resources/Part_3_Statistics/S20_L132/4.8.Test-for-the-mean.Independent-samples-Part-1-exercise.xlsx
+Resources/Part_3_Statistics/S20_L133/4.9.Test-for-the-mean.Independent-samples-Part-2-lesson.xlsx
+Resources/Part_3_Statistics/S20_L134/4.9.Test-for-the-mean.Independent-samples-Part-2-exercise-2-solution.xlsx
+Resources/Part_3_Statistics/S20_L134/4.9.Test-for-the-mean.Independent-samples-Part-2-exercise-2.xlsx
+Resources/Part_3_Statistics/S21_L135/4.10.Hypothesis-testing-section-practical-example.xlsx
+Resources/Part_3_Statistics/S21_L136/4.10.Hypothesis-testing-section-practical-example-exercise-solution.xlsx
+Resources/Part_3_Statistics/S21_L136/4.10.Hypothesis-testing-section-practical-example-exercise.xlsx
+Resources/Part_4_Python/S23_L143/Python 2/Variables - Exercise_Py2.ipynb
+Resources/Part_4_Python/S23_L143/Python 2/Variables - Lecture_Py2.ipynb
+Resources/Part_4_Python/S23_L143/Python 2/Variables - Solution_Py2.ipynb
+Resources/Part_4_Python/S23_L143/Python 3/Variables - Exercise_Py3.ipynb
+Resources/Part_4_Python/S23_L143/Python 3/Variables - Lecture_Py3.ipynb
+Resources/Part_4_Python/S23_L143/Python 3/Variables - Solution_Py3.ipynb
+Resources/Part_4_Python/S23_L144/Python 2/Numbers and Boolean Values - Exercise_Py2.ipynb
+Resources/Part_4_Python/S23_L144/Python 2/Numbers and Boolean Values - Lecture_Py2.ipynb
+Resources/Part_4_Python/S23_L144/Python 2/Numbers and Boolean Values - Solution_Py2.ipynb
+Resources/Part_4_Python/S23_L144/Python 3/Numbers and Boolean Values - Exercise_Py3.ipynb
+Resources/Part_4_Python/S23_L144/Python 3/Numbers and Boolean Values - Lecture_Py3.ipynb
+Resources/Part_4_Python/S23_L144/Python 3/Numbers and Boolean Values - Solution_Py3.ipynb
+Resources/Part_4_Python/S23_L145/Python 2/Strings - Exercise_Py2.ipynb
+Resources/Part_4_Python/S23_L145/Python 2/Strings - Lecture_Py2.ipynb
+Resources/Part_4_Python/S23_L145/Python 2/Strings - Solution_Py2.ipynb
+Resources/Part_4_Python/S23_L145/Python 3/Strings - Exercise_Py3.ipynb
+Resources/Part_4_Python/S23_L145/Python 3/Strings - Lecture_Py3.ipynb
+Resources/Part_4_Python/S23_L145/Python 3/Strings - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L146/Python 2/Arithmetic Operators - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L146/Python 2/Arithmetic Operators - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L146/Python 2/Arithmetic Operators - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L146/Python 3/Arithmetic Operators - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L146/Python 3/Arithmetic Operators - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L146/Python 3/Arithmetic Operators - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L147/Python 2/The Double Equality Sign - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L147/Python 2/The Double Equality Sign - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L147/Python 2/The Double Equality Sign - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L147/Python 3/The Double Equality Sign - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L147/Python 3/The Double Equality Sign - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L147/Python 3/The Double Equality Sign - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L148/Python 2/Reassign Values - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L148/Python 2/Reassign Values - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L148/Python 2/Reassign Values - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L148/Python 3/Reassign Values - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L148/Python 3/Reassign Values - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L148/Python 3/Reassign Values - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L149/Python 2/Add Comments - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L149/Python 3/Add Comments - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.1 Variables/Python 2/Variables - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.1 Variables/Python 2/Variables - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.1 Variables/Python 2/Variables - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.1 Variables/Python 3/Variables - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.1 Variables/Python 3/Variables - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.1 Variables/Python 3/Variables - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 2/Numbers and Boolean Values - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 2/Numbers and Boolean Values - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 2/Numbers and Boolean Values - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 3/Numbers and Boolean Values - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 3/Numbers and Boolean Values - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 3/Numbers and Boolean Values - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.3 Strings/Python 2/Strings - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.3 Strings/Python 2/Strings - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.3 Strings/Python 2/Strings - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.2.3 Strings/Python 3/Strings - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.3 Strings/Python 3/Strings - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.2.3 Strings/Python 3/Strings - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 2/Arithmetic Operators - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 2/Arithmetic Operators - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 2/Arithmetic Operators - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 3/Arithmetic Operators - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 3/Arithmetic Operators - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 3/Arithmetic Operators - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 2/The Double Equality Sign - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 2/The Double Equality Sign - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 2/The Double Equality Sign - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 3/The Double Equality Sign - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 3/The Double Equality Sign - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 3/The Double Equality Sign - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 2/Reassign Values - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 2/Reassign Values - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 2/Reassign Values - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 3/Reassign Values - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 3/Reassign Values - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 3/Reassign Values - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L150/0.3.4 Add Comments/Python 2/Add Comments - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/0.3.4 Add Comments/Python 3/Add Comments - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/Python 2/Line Continuation - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L150/Python 2/Line Continuation - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L150/Python 2/Line Continuation - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L150/Python 3/Line Continuation - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L150/Python 3/Line Continuation - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L150/Python 3/Line Continuation - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L151/Python 2/Indexing Elements - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L151/Python 2/Indexing Elements - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L151/Python 2/Indexing Elements - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L151/Python 3/Indexing Elements - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L151/Python 3/Indexing Elements - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L151/Python 3/Indexing Elements - Solution_Py3.ipynb
+Resources/Part_4_Python/S24_L152/Python 2/Structure Your Code with Indentation - Exercise_Py2.ipynb
+Resources/Part_4_Python/S24_L152/Python 2/Structure Your Code with Indentation - Lecture_Py2.ipynb
+Resources/Part_4_Python/S24_L152/Python 2/Structure Your Code with Indentation - Solution_Py2.ipynb
+Resources/Part_4_Python/S24_L152/Python 3/Structure Your Code with Indentation - Exercise_Py3.ipynb
+Resources/Part_4_Python/S24_L152/Python 3/Structure Your Code with Indentation - Lecture_Py3.ipynb
+Resources/Part_4_Python/S24_L152/Python 3/Structure Your Code with Indentation - Solution_Py3.ipynb
+Resources/Part_4_Python/S25_L153/Python 2/Comparison Operators - Exercise_Py2.ipynb
+Resources/Part_4_Python/S25_L153/Python 2/Comparison Operators - Lecture_Py2.ipynb
+Resources/Part_4_Python/S25_L153/Python 2/Comparison Operators - Solution_Py2.ipynb
+Resources/Part_4_Python/S25_L153/Python 3/Comparison Operators - Exercise_Py3.ipynb
+Resources/Part_4_Python/S25_L153/Python 3/Comparison Operators - Lecture_Py3.ipynb
+Resources/Part_4_Python/S25_L153/Python 3/Comparison Operators - Solution_Py3.ipynb
+Resources/Part_4_Python/S25_L154/Python 2/Logical and Identity Operators - Exercise_Py2.ipynb
+Resources/Part_4_Python/S25_L154/Python 2/Logical and Identity Operators - Lecture_Py2.ipynb
+Resources/Part_4_Python/S25_L154/Python 2/Logical and Identity Operators - Solution_Py2.ipynb
+Resources/Part_4_Python/S25_L154/Python 3/Logical and Identity Operators - Exercise_Py3.ipynb
+Resources/Part_4_Python/S25_L154/Python 3/Logical and Identity Operators - Lecture_Py3.ipynb
+Resources/Part_4_Python/S25_L154/Python 3/Logical and Identity Operators - Solution_Py3.ipynb
+Resources/Part_4_Python/S26_L155/Python 2/Introduction to the If Statement - Exercise_Py2.ipynb
+Resources/Part_4_Python/S26_L155/Python 2/Introduction to the If Statement - Lecture_Py2.ipynb
+Resources/Part_4_Python/S26_L155/Python 2/Introduction to the If Statement - Solution_Py2.ipynb
+Resources/Part_4_Python/S26_L155/Python 3/Introduction to the If Statement - Exercise_Py3.ipynb
+Resources/Part_4_Python/S26_L155/Python 3/Introduction to the If Statement - Lecture_Py3.ipynb
+Resources/Part_4_Python/S26_L155/Python 3/Introduction to the If Statement - Solution_Py3.ipynb
+Resources/Part_4_Python/S26_L156/Python 2/Add an Else Statement - Exercise_Py2.ipynb
+Resources/Part_4_Python/S26_L156/Python 2/Add an Else Statement - Lecture_Py2.ipynb
+Resources/Part_4_Python/S26_L156/Python 2/Add an Else Statement - Solution_Py2.ipynb
+Resources/Part_4_Python/S26_L156/Python 3/Add an Else Statement - Exercise_Py3.ipynb
+Resources/Part_4_Python/S26_L156/Python 3/Add an Else Statement - Lecture_Py3.ipynb
+Resources/Part_4_Python/S26_L156/Python 3/Add an Else Statement - Solution_Py3.ipynb
+Resources/Part_4_Python/S26_L157/Python 2/Else If, for Brief - Elif - Exercise_Py2.ipynb
+Resources/Part_4_Python/S26_L157/Python 2/Else If, for Brief - Elif - Lecture_Py2.ipynb
+Resources/Part_4_Python/S26_L157/Python 2/Else If, for Brief - Elif - Solution_Py2.ipynb
+Resources/Part_4_Python/S26_L157/Python 3/Else If, for Brief - Elif - Exercise_Py3.ipynb
+Resources/Part_4_Python/S26_L157/Python 3/Else If, for Brief - Elif - Lecture_Py3.ipynb
+Resources/Part_4_Python/S26_L157/Python 3/Else If, for Brief - Elif - Solution_Py3.ipynb
+Resources/Part_4_Python/S26_L158/Python 2/A Note on Boolean Values - Lecture_Py2.ipynb
+Resources/Part_4_Python/S26_L158/Python 3/A Note on Boolean Values - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L159/Python 2/Defining a Function in Python - Lecture_Py2.ipynb
+Resources/Part_4_Python/S27_L159/Python 3/Defining a Function in Python - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L160/Python 2/Creating a Function with a Parameter - Exercise_Py2.ipynb
+Resources/Part_4_Python/S27_L160/Python 2/Creating a Function with a Parameter - Lecture_Py2.ipynb
+Resources/Part_4_Python/S27_L160/Python 2/Creating a Function with a Parameter - Solution_Py2.ipynb
+Resources/Part_4_Python/S27_L160/Python 3/Creating a Function with a Parameter - Exercise_Py3.ipynb
+Resources/Part_4_Python/S27_L160/Python 3/Creating a Function with a Parameter - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L160/Python 3/Creating a Function with a Parameter - Solution_Py3.ipynb
+Resources/Part_4_Python/S27_L161/Python 2/Another Way to Define a Function - Exercise_Py2.ipynb
+Resources/Part_4_Python/S27_L161/Python 2/Another Way to Define a Function - Lecture_Py2.ipynb
+Resources/Part_4_Python/S27_L161/Python 2/Another Way to Define a Function - Solution_Py2.ipynb
+Resources/Part_4_Python/S27_L161/Python 3/Another Way to Define a Function - Exercise_Py3.ipynb
+Resources/Part_4_Python/S27_L161/Python 3/Another Way to Define a Function - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L161/Python 3/Another Way to Define a Function - Solution_Py3.ipynb
+Resources/Part_4_Python/S27_L162/Python 2/0.6.4 Using a Function in another Function - Exercise_Py2.ipynb
+Resources/Part_4_Python/S27_L162/Python 2/0.6.4 Using a Function in another Function - Lecture_Py2.ipynb
+Resources/Part_4_Python/S27_L162/Python 2/0.6.4 Using a Function in another Function - Solution_Py2.ipynb
+Resources/Part_4_Python/S27_L162/Python 3/0.6.4 Using a Function in another Function - Exercise_Py3.ipynb
+Resources/Part_4_Python/S27_L162/Python 3/0.6.4 Using a Function in another Function - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L162/Python 3/0.6.4 Using a Function in another Function - Solution_Py3.ipynb
+Resources/Part_4_Python/S27_L163/Python 2/Combining Conditional Statements and Functions - Exercise_Py2.ipynb
+Resources/Part_4_Python/S27_L163/Python 2/Combining Conditional Statements and Functions - Lecture_Py2.ipynb
+Resources/Part_4_Python/S27_L163/Python 2/Combining Conditional Statements and Functions - Solution_Py2.ipynb
+Resources/Part_4_Python/S27_L163/Python 3/Combining Conditional Statements and Functions - Exercise_Py3.ipynb
+Resources/Part_4_Python/S27_L163/Python 3/Combining Conditional Statements and Functions - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L163/Python 3/Combining Conditional Statements and Functions - Solution_Py3.ipynb
+Resources/Part_4_Python/S27_L164/Python 2/Creating Functions Containing a Few Arguments - Lecture_Py2.ipynb
+Resources/Part_4_Python/S27_L164/Python 3/Creating Functions Containing a Few Arguments - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L165/Python 2/Notable Built-In Functions in Python - Exercise_Py2.ipynb
+Resources/Part_4_Python/S27_L165/Python 2/Notable Built-In Functions in Python - Lecture_Py2.ipynb
+Resources/Part_4_Python/S27_L165/Python 2/Notable Built-In Functions in Python - Solution_Py2.ipynb
+Resources/Part_4_Python/S27_L165/Python 3/Notable Built-In Functions in Python - Exercise_Py3.ipynb
+Resources/Part_4_Python/S27_L165/Python 3/Notable Built-In Functions in Python - Lecture_Py3.ipynb
+Resources/Part_4_Python/S27_L165/Python 3/Notable Built-In Functions in Python - Solution_Py3.ipynb
+Resources/Part_4_Python/S28_L166/Python 2/Lists - Exercise_Py2.ipynb
+Resources/Part_4_Python/S28_L166/Python 2/Lists - Lecture_Py2.ipynb
+Resources/Part_4_Python/S28_L166/Python 2/Lists - Solution_Py2.ipynb
+Resources/Part_4_Python/S28_L166/Python 3/Lists - Exercise_Py3.ipynb
+Resources/Part_4_Python/S28_L166/Python 3/Lists - Lecture_Py3.ipynb
+Resources/Part_4_Python/S28_L166/Python 3/Lists - Solution_Py3.ipynb
+Resources/Part_4_Python/S28_L167/Python 2/Help Yourself with Methods - Exercise_Py2.ipynb
+Resources/Part_4_Python/S28_L167/Python 2/Help Yourself with Methods - Lecture_Py2.ipynb
+Resources/Part_4_Python/S28_L167/Python 2/Help Yourself with Methods - Solution_Py2.ipynb
+Resources/Part_4_Python/S28_L167/Python 3/Help Yourself with Methods - Exercise_Py3.ipynb
+Resources/Part_4_Python/S28_L167/Python 3/Help Yourself with Methods - Lecture_Py3.ipynb
+Resources/Part_4_Python/S28_L167/Python 3/Help Yourself with Methods - Solution_Py3.ipynb
+Resources/Part_4_Python/S28_L168/Python 2/List Slicing - Exercise_Py2.ipynb
+Resources/Part_4_Python/S28_L168/Python 2/List Slicing - Lecture_Py2.ipynb
+Resources/Part_4_Python/S28_L168/Python 2/List Slicing - Solution_Py2.ipynb
+Resources/Part_4_Python/S28_L168/Python 3/List Slicing - Exercise_Py3.ipynb
+Resources/Part_4_Python/S28_L168/Python 3/List Slicing - Lecture_Py3.ipynb
+Resources/Part_4_Python/S28_L168/Python 3/List Slicing - Solution_Py3.ipynb
+Resources/Part_4_Python/S28_L169/Python 2/Tuples - Exercise_Py2.ipynb
+Resources/Part_4_Python/S28_L169/Python 2/Tuples - Lecture_Py2.ipynb
+Resources/Part_4_Python/S28_L169/Python 2/Tuples - Solution_Py2.ipynb
+Resources/Part_4_Python/S28_L169/Python 3/Tuples - Exercise_Py3.ipynb
+Resources/Part_4_Python/S28_L169/Python 3/Tuples - Lecture_Py3.ipynb
+Resources/Part_4_Python/S28_L169/Python 3/Tuples - Solution_Py3.ipynb
+Resources/Part_4_Python/S28_L170/Python 2/Dictionaries - Exercise_Py2.ipynb
+Resources/Part_4_Python/S28_L170/Python 2/Dictionaries - Lecture_Py2.ipynb
+Resources/Part_4_Python/S28_L170/Python 2/Dictionaries - Solution_Py2.ipynb
+Resources/Part_4_Python/S28_L170/Python 3/Dictionaries - Exercise_Py3.ipynb
+Resources/Part_4_Python/S28_L170/Python 3/Dictionaries - Lecture_Py3.ipynb
+Resources/Part_4_Python/S28_L170/Python 3/Dictionaries - Solution_Py3.ipynb
+Resources/Part_4_Python/S29_L171/Python 2/For Loops - Exercise_Py2.ipynb
+Resources/Part_4_Python/S29_L171/Python 2/For Loops - Lecture_Py2.ipynb
+Resources/Part_4_Python/S29_L171/Python 2/For Loops - Solution_Py2.ipynb
+Resources/Part_4_Python/S29_L171/Python 3/For Loops - Exercise_Py3.ipynb
+Resources/Part_4_Python/S29_L171/Python 3/For Loops - Lecture_Py3.ipynb
+Resources/Part_4_Python/S29_L171/Python 3/For Loops - Solution_Py3.ipynb
+Resources/Part_4_Python/S29_L172/Python 2/While Loops and Incrementing - Exercise_Py2.ipynb
+Resources/Part_4_Python/S29_L172/Python 2/While Loops and Incrementing - Lecture_Py2.ipynb
+Resources/Part_4_Python/S29_L172/Python 2/While Loops and Incrementing - Solution_Py2.ipynb
+Resources/Part_4_Python/S29_L172/Python 3/While Loops and Incrementing - Exercise_Py3.ipynb
+Resources/Part_4_Python/S29_L172/Python 3/While Loops and Incrementing - Lecture_Py3.ipynb
+Resources/Part_4_Python/S29_L172/Python 3/While Loops and Incrementing - Solution_Py3.ipynb
+Resources/Part_4_Python/S29_L173/Python 2/Create Lists with the range() Function - Exercise_Py2.ipynb
+Resources/Part_4_Python/S29_L173/Python 2/Create Lists with the range() Function - Lecture_Py2.ipynb
+Resources/Part_4_Python/S29_L173/Python 2/Create Lists with the range() Function - Solution_Py2.ipynb
+Resources/Part_4_Python/S29_L173/Python 3/Create Lists with the range() Function - Exercise_Py3.ipynb
+Resources/Part_4_Python/S29_L173/Python 3/Create Lists with the range() Function - Lecture_Py3.ipynb
+Resources/Part_4_Python/S29_L173/Python 3/Create Lists with the range() Function - Solution_Py3.ipynb
+Resources/Part_4_Python/S29_L174/Python 2/Use Conditional Statements and Loops Together - Exercise_Py2.ipynb
+Resources/Part_4_Python/S29_L174/Python 2/Use Conditional Statements and Loops Together - Lecture_Py2.ipynb
+Resources/Part_4_Python/S29_L174/Python 2/Use Conditional Statements and Loops Together - Solution_Py2.ipynb
+Resources/Part_4_Python/S29_L174/Python 3/Use Conditional Statements and Loops Together - Exercise_Py3.ipynb
+Resources/Part_4_Python/S29_L174/Python 3/Use Conditional Statements and Loops Together - Lecture_Py3.ipynb
+Resources/Part_4_Python/S29_L174/Python 3/Use Conditional Statements and Loops Together - Solution_Py3.ipynb
+Resources/Part_4_Python/S29_L175/Python 2/All In - Exercise_Py2.ipynb
+Resources/Part_4_Python/S29_L175/Python 2/All In - Lecture_Py2.ipynb
+Resources/Part_4_Python/S29_L175/Python 2/All In - Solution_Py2.ipynb
+Resources/Part_4_Python/S29_L175/Python 3/All In - Exercise_Py3.ipynb
+Resources/Part_4_Python/S29_L175/Python 3/All In - Lecture_Py3.ipynb
+Resources/Part_4_Python/S29_L175/Python 3/All In - Solution_Py3.ipynb
+Resources/Part_4_Python/S29_L176/Python 2/Iterating over Dictionaries - Exercise_Py2.ipynb
+Resources/Part_4_Python/S29_L176/Python 2/Iterating over Dictionaries - Lecture_Py2.ipynb
+Resources/Part_4_Python/S29_L176/Python 2/Iterating over Dictionaries - Solution_Py2.ipynb
+Resources/Part_4_Python/S29_L176/Python 3/Iterating over Dictionaries - Exercise_Py3.ipynb
+Resources/Part_4_Python/S29_L176/Python 3/Iterating over Dictionaries - Lecture_Py3.ipynb
+Resources/Part_4_Python/S29_L176/Python 3/Iterating over Dictionaries - Solution_Py3.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L186/1.01. Simple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L186/Simple linear regression_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L186/Simple linear regression.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L187/real_estate_price_size.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L187/Simple Linear Regression Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L187/Simple Linear Regression Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L194/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L194/Multiple linear regression and Adjusted R-squared_.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L194/Multiple linear regression and Adjusted R-squared_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L195/Multiple Linear Regression Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L195/Multiple Linear Regression Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L195/real_estate_price_size_year.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L203/1.03. Dummies.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L203/Dummy variables_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L203/Dummy Variables.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L204/Multiple Linear Regression with Dummies Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L204/Multiple Linear Regression with Dummies Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L204/real_estate_price_size_year_view.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L205/Making predictions_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L205/Making predictions.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L208/1.01. Simple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L208/sklearn - Simple Linear Regression_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L208/sklearn - Simple Linear Regression.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L209/1.01. Simple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L209/sklearn - Simple Linear Regression_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L209/sklearn - Simple Linear Regression.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L211/real_estate_price_size.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L211/Simple Linear Regression with sklearn - Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L211/Simple Linear Regression with sklearn - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L212/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L212/sklearn - Multiple Linear Regression_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L212/sklearn - Multiple Linear Regression.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L213/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L213/sklearn - Multiple Linear Regression and Adjusted R-squared_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L213/sklearn - Multiple Linear Regression and Adjusted R-squared.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L214/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L214/sklearn - Multiple Linear Regression and Adjusted R-squared - Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L214/sklearn - Multiple Linear Regression and Adjusted R-squared - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L215/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L215/sklearn - Feature Selection with F-regression_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L215/sklearn - Feature Selection with F-regression.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L216/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L216/sklearn - How to properly include p-values.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L217/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L217/sklearn - Multiple Linear Regression Summary Table_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L217/sklearn - Multiple Linear Regression Summary Table.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L218/real_estate_price_size_year.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L218/sklearn - Multiple Linear Regression Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L218/sklearn - Multiple Linear Regression Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L219/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L219/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 1_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L219/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 1.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L220/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L220/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 2_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L220/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 2.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L221/1.02. Multiple linear regression.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L221/sklearn - Making Predictions with the Standardized Coefficients_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L221/sklearn - Making Predictions with the Standardized Coefficients.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L222/real_estate_price_size_year.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L222/sklearn - Feature Scaling Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L222/sklearn - Feature Scaling Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L224/sklearn - Train Test Split_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L224/sklearn - Train Test Split.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L225/1.04. Real-life example.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L225/sklearn - Linear Regression - Practical Example (Part 1)_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L225/sklearn - Linear Regression - Practical Example (Part 1).ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L226/1.04. Real-life example.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L226/sklearn - Linear Regression - Practical Example (Part 2)_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L226/sklearn - Linear Regression - Practical Example (Part 2).ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L228/1.04. Real-life example.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L228/sklearn - Linear Regression - Practical Example (Part 3)_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L228/sklearn - Linear Regression - Practical Example (Part 3).ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L229/1.04. Real-life example.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L229/sklearn - Dummies and VIF - Exercise Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L229/sklearn - Dummies and VIF - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L230/1.04. Real-life example.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L230/sklearn - Linear Regression - Practical Example (Part 4)_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L230/sklearn - Linear Regression - Practical Example (Part 4).ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L232/1.04. Real-life example.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L232/sklearn - Linear Regression - Practical Example (Part 5)_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L232/sklearn - Linear Regression - Practical Example (Part 5).ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L235/2.01. Admittance.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L235/Admittance_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L235/Admittance.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L237/Admittance regression tables_fixed_error.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L237/Admittance regression_summary_error.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L237/Admittance regression.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L238/Building a Logistic Regression - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L238/Building a Logistic Regression - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L238/Example-bank-data.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L241/Bank-data.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L241/Understanding Logistic Regression Tables - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L241/Understanding Logistic Regression Tables - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L243/2.02. Binary predictors.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L243/Binary predictors.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L244/Bank-data.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L244/Binary Predictors in a Logistic Regression - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L244/Binary Predictors in a Logistic Regression - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L245/Accuracy_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L245/Accuracy.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L246/Bank-data.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L246/Calculating the Accuracy of the Model - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L246/Calculating the Accuracy of the Model - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L248/2.03. Test dataset.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L248/Testing the model_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L248/Testing the model.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Bank-data-testing.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Bank-data.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Testing the Model - Exercise..ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Testing the Model - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L255/3.01. Country clusters.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L255/Country clusters_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L255/Country clusters.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L256/A Simple Example of Clustering - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L256/A Simple Example of Clustering - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L256/Countries-exercise.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L257/Categorical data_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L257/Categorical data.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L258/Categorical.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L258/Clustering Categorical Data - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L258/Clustering Categorical Data - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L259/Selecting the number of clusters_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L259/Selecting the number of clusters.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L260/Countries-exercise.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L260/How to Choose the Number of Clusters - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L260/How to Choose the Number of Clusters - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L264/3.12. Example.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L264/Market segmentation example_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L264/Market segmentation example.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L265/Market segmentation example_Part2_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L265/Market segmentation example_Part2.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L267/iris-dataset.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L267/Species Segmentation with Cluster Analysis Part 1- Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L267/Species Segmentation with Cluster Analysis Part 1- Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/iris-dataset.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/iris-with-answers.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/Species Segmentation with Cluster Analysis Part 2 - Exercise.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/Species Segmentation with Cluster Analysis Part 2 - Solution.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S39_L271/Country clusters standardized.csv
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S39_L271/Heatmaps_with_comments.ipynb
+Resources/Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S39_L271/Heatmaps.ipynb
+Resources/Part_6_Mathematics/S40_L275/Scalars, Vectors, and Matrices.ipynb
+Resources/Part_6_Mathematics/S40_L276/Tensors.ipynb
+Resources/Part_6_Mathematics/S40_L277/Adding and subtracting matrices.ipynb
+Resources/Part_6_Mathematics/S40_L278/Errors when adding scalars, vectors, and matrices in Python.ipynb
+Resources/Part_6_Mathematics/S40_L279/Tranpose of a matrix.ipynb
+Resources/Part_6_Mathematics/S40_L280/Dot product.ipynb
+Resources/Part_6_Mathematics/S40_L281/Dot product (Part 2).ipynb
+Resources/Part_7_Deep_Learning/S43_L296/Minimal_example_Part_1.ipynb
+Resources/Part_7_Deep_Learning/S43_L297/Minimal_example_Part_2.ipynb
+Resources/Part_7_Deep_Learning/S43_L298/Minimal_example_Part_3.ipynb
+Resources/Part_7_Deep_Learning/S43_L299/Minimal_example_Part_4_Complete.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_All_Exercises.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.a. Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.b. Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.c. Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.d. Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_4_Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_5_Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_6_Solution.ipynb
+Resources/Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_6.ipynb
+Resources/Part_7_Deep_Learning/S44_L304/Shortcuts-for-Jupyter.pdf
+Resources/Part_7_Deep_Learning/S44_L305/TensorFlow_Minimal_example_Part1.ipynb
+Resources/Part_7_Deep_Learning/S44_L306/TensorFlow_Minimal_example_Part2.ipynb
+Resources/Part_7_Deep_Learning/S44_L307/TensorFlow_Minimal_example_Part3.ipynb
+Resources/Part_7_Deep_Learning/S44_L308/TensorFlow_Minimal_example_complete_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S44_L308/TensorFlow_Minimal_example_complete.ipynb
+Resources/Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_example_All_exercises.ipynb
+Resources/Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_example_Exercise_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_Example_Exercise_2_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_Example_Exercise_2_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_Example_Exercise_3_Solution.ipynb
+Resources/Part_7_Deep_Learning/S45_L310/Course-Notes-Section-6.pdf
+Resources/Part_7_Deep_Learning/S45_L311/Course-Notes-Section-6.pdf
+Resources/Part_7_Deep_Learning/S45_L318/Backpropagation-a-peek-into-the-Mathematics-of-Optimization.pdf
+Resources/Part_7_Deep_Learning/S50_L342/TensorFlow_MNIST_Part1_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S50_L344/TensorFlow_MNIST_Part2_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S50_L346/TensorFlow_MNIST_Part3_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S50_L347/TensorFlow_MNIST_Part4_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S50_L348/TensorFlow_MNIST_Part5_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S50_L349/TensorFlow_MNIST_Part6_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/1. TensorFlow_MNIST_Width_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/2. TensorFlow_MNIST_Depth_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/3. TensorFlow_MNIST_Width_and_Depth_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/4. TensorFlow_MNIST_Activation_functions_Part_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/5. TensorFlow_MNIST_Activation_functions_Part_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/6. TensorFlow_MNIST_Batch_size_Part_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/7. TensorFlow_MNIST_Batch_size_Part_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/8. TensorFlow_MNIST_Learning_rate_Part_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/9. TensorFlow_MNIST_Learning_rate_Part_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/TensorFlow_MNIST_All_Exercises.ipynb
+Resources/Part_7_Deep_Learning/S50_L350/TensorFlow_MNIST_around_98_percent_accuracy.ipynb
+Resources/Part_7_Deep_Learning/S50_L351/TensorFlow_MNIST_complete_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S50_L351/TensorFlow_MNIST_complete.ipynb
+Resources/Part_7_Deep_Learning/S51_L352/Audiobooks_data.csv
+Resources/Part_7_Deep_Learning/S51_L355/Audiobooks_data.csv
+Resources/Part_7_Deep_Learning/S51_L355/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S51_L355/TensorFlow_Audiobooks_Preprocessing.ipynb
+Resources/Part_7_Deep_Learning/S51_L356/Audiobooks_data.csv
+Resources/Part_7_Deep_Learning/S51_L356/TensorFlow_Audiobooks_Preprocessing_Exercise_Solution.ipynb
+Resources/Part_7_Deep_Learning/S51_L356/TensorFlow_Audiobooks_Preprocessing_Exercise.ipynb
+Resources/Part_7_Deep_Learning/S51_L358/TensorFlow_Audiobooks_Machine_Learning_Part1_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S51_L359/TensorFlow_Audiobooks_Machine_Learning_Part2_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S51_L360/TensorFlow_Audiobooks_Machine_Learning_Part3_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S51_L362/TensorFlow_Audiobooks_Machine_Learning_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S51_L363/TensorFlow_Audiobooks_Machine_Learning_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S53_L374/Shortcuts-for-Jupyter.pdf
+Resources/Part_7_Deep_Learning/S53_L375/5.3. TensorFlow_Minimal_example_Part_1.ipynb
+Resources/Part_7_Deep_Learning/S53_L376/5.4. TensorFlow_Minimal_example_Part_2.ipynb
+Resources/Part_7_Deep_Learning/S53_L377/5.5. TensorFlow_Minimal_example_Part_3.ipynb
+Resources/Part_7_Deep_Learning/S53_L378/5.6. TensorFlow_Minimal_example_complete.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_All_Exercises.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_3_Solution.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_4_Solution.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_3_Solution.ipynb
+Resources/Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_4_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L382/12.3. TensorFlow_MNIST_with_comments_Part_1.ipynb
+Resources/Part_7_Deep_Learning/S54_L383/12.4. TensorFlow_MNIST_with_comments_Part_2.ipynb
+Resources/Part_7_Deep_Learning/S54_L384/12.5. TensorFlow_MNIST_with_comments_Part_3.ipynb
+Resources/Part_7_Deep_Learning/S54_L385/12.6. TensorFlow_MNIST_with_comments_Part_4.ipynb
+Resources/Part_7_Deep_Learning/S54_L386/12.7. TensorFlow_MNIST_with_comments_Part_5.ipynb
+Resources/Part_7_Deep_Learning/S54_L387/12.8. TensorFlow_MNIST_with_comments_Part_6.ipynb
+Resources/Part_7_Deep_Learning/S54_L388/12.9. TensorFlow_MNIST_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S54_L389/TensorFlow_MNIST_Exercises_All.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/0. TensorFlow_MNIST_take_note_of_time_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/1. TensorFlow_MNIST_Width_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/2. TensorFlow_MNIST_Depth_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/3. TensorFlow_MNIST_Width_and_Depth_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/4. TensorFlow_MNIST_Activation_functions_Part_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/5. TensorFlow_MNIST_Activation_functions_Part_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/6. TensorFlow_MNIST_Batch_size_Part_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/7. TensorFlow_MNIST_Batch_size_Part_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/8. TensorFlow_MNIST_Learning_rate_Part_1_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/9. TensorFlow_MNIST_Learning_rate_Part_2_Solution.ipynb
+Resources/Part_7_Deep_Learning/S54_L390/TensorFlow_MNIST_around_98_percent_accuracy.ipynb
+Resources/Part_7_Deep_Learning/S55_L391/Audiobooks-data.csv
+Resources/Part_7_Deep_Learning/S55_L392/Audiobooks_data.csv
+Resources/Part_7_Deep_Learning/S55_L392/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S55_L392/TensorFlow_Audiobooks_Preprocessing.ipynb
+Resources/Part_7_Deep_Learning/S55_L392/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_lesson-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L392/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_with_comments-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L394/TensorFlow_Audiobooks_Batching.ipynb
+Resources/Part_7_Deep_Learning/S55_L394/.ipynb_checkpoints/TensorFlow_Audiobooks_Batching-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L395/Audiobooks_data.csv
+Resources/Part_7_Deep_Learning/S55_L395/TensorFlow_Audiobooks_Preprocessing_Exercise_Solution.ipynb
+Resources/Part_7_Deep_Learning/S55_L395/TensorFlow_Audiobooks_Preprocessing_Exercise.ipynb
+Resources/Part_7_Deep_Learning/S55_L395/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_Exercise_Solution-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L395/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_Exercise-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L397/TensorFlow_Audiobooks_Outlining_the_model_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S55_L397/TensorFlow_Audiobooks_Outlining_the_model.ipynb
+Resources/Part_7_Deep_Learning/S55_L397/.ipynb_checkpoints/TensorFlow_Audiobooks_Outlining_the_model_with_comments-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L397/.ipynb_checkpoints/TensorFlow_Audiobooks_Outlining_the_model-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L398/TensorFlow_Audiobooks_optimizing_the_algorithm_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S55_L398/TensorFlow_Audiobooks_optimizing_the_algorithm.ipynb
+Resources/Part_7_Deep_Learning/S55_L398/.ipynb_checkpoints/TensorFlow_Audiobooks_optimizing_the_algorithm_with_comments-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L398/.ipynb_checkpoints/TensorFlow_Audiobooks_optimizing_the_algorithm-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L399/TensorFlow_Audiobooks_optimizing_the_algorithm_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S55_L399/TensorFlow_Audiobooks_optimizing_the_algorithm.ipynb
+Resources/Part_7_Deep_Learning/S55_L400/Audiobooks_data.csv
+Resources/Part_7_Deep_Learning/S55_L400/TensorFlow_Audiobooks_Machine_learning_Homework.ipynb
+Resources/Part_7_Deep_Learning/S55_L400/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S55_L400/.ipynb_checkpoints/TensorFlow_Audiobooks_Machine_learning_with_comments-checkpoint.ipynb
+Resources/Part_7_Deep_Learning/S55_L402/Audiobooks_data.csv
+Resources/Part_7_Deep_Learning/S55_L402/TensorFlow_Audiobooks_Machine_learning_Homework.ipynb
+Resources/Part_7_Deep_Learning/S55_L402/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb
+Resources/Part_7_Deep_Learning/S55_L402/.ipynb_checkpoints/TensorFlow_Audiobooks_Machine_learning_with_comments-checkpoint.ipynb
+Resources/Part_8_Case_Study/S58_L411/Absenteeism-data.csv
+Resources/Part_8_Case_Study/S58_L411/data-preprocessing-homework.pdf
+Resources/Part_8_Case_Study/S58_L411/df-preprocessed.csv
+Resources/Part_8_Case_Study/S58_L439/Absenteeism Exercise - Removing the Date Column - SOLUTION.ipynb
+Resources/Part_8_Case_Study/S58_L442/Absenteeism Exercise - EXERCISES and SOLUTIONS.ipynb
+Resources/Part_8_Case_Study/S58_L442/Absenteeism Exercise - Preprocessing.ipynb
+Resources/Part_8_Case_Study/S59_L443/Absenteeism-preprocessed.csv
+Resources/Part_8_Case_Study/S59_L452/Absenteeism Exercise - Logistic Regression_prior to custom_scaler.ipynb
+Resources/Part_8_Case_Study/S59_L454/Absenteeism Exercise - Logistic Regression_prior_to_backward_elimination.ipynb
+Resources/Part_8_Case_Study/S59_L458/Absenteeism Exercise - Logistic Regression_with_comments.ipynb
+Resources/Part_8_Case_Study/S59_L458/Absenteeism Exercise - Logistic Regression.ipynb
+Resources/Part_8_Case_Study/S60_L460/Absenteeism Exercise - Integration.ipynb
+Resources/Part_8_Case_Study/S60_L460/absenteeism_module.py
+Resources/Part_8_Case_Study/S60_L460/Absenteeism_new_data.csv
+Resources/Part_8_Case_Study/S60_L460/model
+Resources/Part_8_Case_Study/S60_L460/scaler
+Resources/Part_8_Case_Study/S60_L463/Absenteeism Exercise - Deploying the 'absenteeism_module'.ipynb
+Resources/Part_8_Case_Study/S60_L464/Absenteeism Exercise - Deploying the 'absenteeism_module'.ipynb
+Resources/Part_8_Case_Study/S60_L464/Absenteeism_predictions.csv
+Resources/Part_9_Appendix/Additional-Python-Tools-Exercises.ipynb
+Resources/Part_9_Appendix/Additional-Python-Tools-Lectures.ipynb
+Resources/Part_9_Appendix/Additional-Python-Tools-Solutions.ipynb
